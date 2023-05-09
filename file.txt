@@ -1,0 +1,2 @@
+my first assignment in devops
+introduction to GIT 
